@@ -1,5 +1,5 @@
 # LoA
-Data and R files for creating limits of agreement based on transformed measurements. The simulated data and analyses corresponds to those in the manuscript "Limits of agreement based on transformed measurements". 
+Data and R files for creating limits of agreement based on transformed measurements. The simulated data and analyses corresponds to those in the manuscript: Parner (2024), "Limits of agreement based on transformed measurements". 
 
 # Data
 * dfi_sim.RData: simulated data corresponding to the sperm DNA fragmentation index (DFI) data
